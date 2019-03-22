@@ -1,4 +1,4 @@
-# BDII_Informe_Lab_02
+# BDII_Informe_Lab_01
 
 1. Abrir una consola de comandos
 2. ingresar a una carpeta y ejecutar el comando
