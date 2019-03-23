@@ -3,7 +3,7 @@
 1. Abrir una consola de comandos
 2. ingresar a una carpeta y ejecutar el comando
 
-   - git clone https://github.com/p-cuadros/BDII_Informe_Lab_02.git
+   - git clone https://github.com/bluedevil97/Informe_Lab_I_IN.git
 
 3. Se decargaran los archivos. Luego abrir el TexWorks y editar los archivos
 
